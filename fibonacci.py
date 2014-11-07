@@ -1,5 +1,7 @@
 #! /usr/bin/env python
 
+howMany= int(raw_input("How many Fibonacci numbers should I create."))
+
 nums = [1,1]
 
 print(1)
